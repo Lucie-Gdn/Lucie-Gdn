@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Lucie, welcome to my Github profile 🌻 <br>
+At the beginning of this year I decided to become a developper, browse my profile to see my progress ! <br>
+I love to start new projects in groups or on my own. I take a special care in the design of my projects, I am always eager to learn more and discover new methods of work 👩‍💻 <br>
+If you want to know more, check out my linkedIn profile : 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lucie-gendron-151793139/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **LucieGendron/LucieGendron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
